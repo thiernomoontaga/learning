@@ -1,4 +1,4 @@
-# Hello, World! 👋
+ # Hello, World! 👋
 
 ## Bienvenue sur Mon Profil GitHub
 
@@ -36,8 +36,5 @@ Chaque projet sera entièrement documenté avec :
 
 ### Restons connectés
 J'aime collaborer et apprendre de la communauté. N'hésitez pas à explorer mes dépôts, forker, mettre des étoiles ou ouvrir des issues pour contribuer. Grandissons ensemble en tant que développeurs !
-
-- [LinkedIn]www.linkedin.com/in/thierno-segnane-19a910249
-- [Portfolio](https://yourportfolio.com) *(à mettre à jour avec votre lien réel)*
-
+www.linkedin.com/in/thierno-segnane-19a910249
 Merci d'avoir visité mon profil ! 🚀
