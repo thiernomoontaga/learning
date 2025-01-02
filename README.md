@@ -1,4 +1,4 @@
- # Hello, World! 👋
+# Hello, World! 👋
 
 ## Bienvenue sur Mon Profil GitHub
 
@@ -34,7 +34,16 @@ Chaque projet sera entièrement documenté avec :
 - Le code source
 - Des aperçus en direct lorsque cela sera possible
 
+### Illustration des technologies
+Voici une image représentant les différentes technologies de développement web que j'utilise :
+
+![Technologies de développement web](./A_vibrant_and_visually_appealing_image_showcasing_.png)
+
 ### Restons connectés
 J'aime collaborer et apprendre de la communauté. N'hésitez pas à explorer mes dépôts, forker, mettre des étoiles ou ouvrir des issues pour contribuer. Grandissons ensemble en tant que développeurs !
-www.linkedin.com/in/thierno-segnane-19a910249
+
+- [LinkedIn](https://www.linkedin.com/in/thierno-segnane) 
+
+
 Merci d'avoir visité mon profil ! 🚀
+
