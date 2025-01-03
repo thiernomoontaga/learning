@@ -42,7 +42,7 @@ Voici une image représentant les différentes technologies de développement we
 ### Restons connectés
 J'aime collaborer et apprendre de la communauté. N'hésitez pas à explorer mes dépôts, forker, mettre des étoiles ou ouvrir des issues pour contribuer. Grandissons ensemble en tant que développeurs !
 
-- [LinkedIn](https://www.linkedin.com/in/thierno-segnane) 
+www.linkedin.com/in/thierno-segnane-19a910249
 
 
 Merci d'avoir visité mon profil ! 🚀
